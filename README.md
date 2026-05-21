@@ -1,6 +1,5 @@
 *This project has been created as part of the 42 curriculum by thhtun & pytun.*
 
-https://drive.google.com/file/d/1gB4LkydIHeE-ru4EG2Wd_2Tl5YZ4vhz_/view?usp=sharing
 
 
 ## Description
